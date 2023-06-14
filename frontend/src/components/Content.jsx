@@ -6,8 +6,9 @@ function Content() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-    </>
+    <div className='content'>
+      <h1 className='text'>content</h1>
+    </div>
   )
 }
 

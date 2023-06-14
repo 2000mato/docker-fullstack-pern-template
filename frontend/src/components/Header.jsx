@@ -6,11 +6,9 @@ function Header() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
     <div className='header'>
-         <h1>eStore</h1>
+         <h1>Header</h1>
     </div>
-    </>
   )
 }
 

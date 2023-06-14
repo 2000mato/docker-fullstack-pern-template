@@ -1,0 +1,7 @@
+.header{
+    width: 100%;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 100%;
+}

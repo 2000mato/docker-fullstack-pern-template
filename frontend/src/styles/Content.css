@@ -1,11 +1,11 @@
 .content {
     /* Positioning properties */
     position: absolute;
-    top: 11%;
+    top: 15%;
   
     /* Flex properties */
     display: flex;
-    flex-grow: 1;
+    flex-grow: 2;
   
     /* Size properties */
     width: 100%;

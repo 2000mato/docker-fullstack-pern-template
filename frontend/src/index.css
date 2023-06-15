@@ -1,10 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  min-width: 100vh;
   min-height: 100vh;
-  background-color: rgb(71, 8, 197);
+  background-color: rgb(8, 112, 197);
+  height: 100%;
+  width: 100%;
 }
 
 #root {
@@ -14,6 +23,10 @@ body {
   align-items: center;
 }
 
+html{
+  height: 100%;
+  width: 100%;
+}
 
 
 
